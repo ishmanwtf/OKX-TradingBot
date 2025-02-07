@@ -1,6 +1,6 @@
 # OKX-trading-bot
 
-### TODO List
+
 
 
 - [ ] Include risk-adjusted metrics like Sharpe ratio or Omega ratio into generating trade signals
